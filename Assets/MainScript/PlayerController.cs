@@ -43,7 +43,7 @@ public class PlayerController : MonoBehaviour
         float y = Input.GetAxis("Vertical");
 
         // xとyにspeedを掛ける
-        rigidbody.AddForce(x * speed, y * speed, 20);
+        rigidbody.AddForce(x * speed, y * speed, 10);
         Vector3 moveVector = Vector3.zero;
         rigidbody.AddForce(moveForceMultiplier * (moveVector - rigidbody.velocity));
 

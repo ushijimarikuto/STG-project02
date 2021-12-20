@@ -8,7 +8,7 @@ public class EnemyShooting : MonoBehaviour
     public GameObject player;
     public GameObject Bullet;
 
-    public float speed = 100.0f;
+    public float speed = 150.0f;
    
     void Start()
     {

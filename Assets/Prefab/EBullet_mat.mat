@@ -62,9 +62,9 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _Glossiness: 0.5
-    - _LightSaberFactor: 0.9
+    - _LightSaberFactor: 0.775
     - _LineScale: 1
-    - _LineWidth: 77
+    - _LineWidth: 22.4
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
